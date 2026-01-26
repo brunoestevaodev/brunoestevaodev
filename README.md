@@ -5,9 +5,6 @@ Tenho experiência com PHP moderno, APIs, bancos de dados e também atuo no fron
 
 🚀 Sempre buscando evoluir tecnicamente e criar soluções eficientes para problemas reais.
 
----
-
-## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="40"
