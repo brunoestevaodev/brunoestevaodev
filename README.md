@@ -28,17 +28,6 @@ Tenho experiência com PHP moderno, APIs, bancos de dados e também atuo no fron
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/brunoestevaodev">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoestevaodev&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 🔗 Onde me encontrar
 
 - GitHub: https://github.com/brunoestevaodev
