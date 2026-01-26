@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Bruno
 
-<!--
-**brunoestevaodev/brunoestevaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente trabalho com **desenvolvimento backend**, focado em construir aplicações escaláveis, bem estruturadas e seguindo boas práticas de arquitetura e código limpo.  
+Tenho experiência com PHP moderno, APIs, bancos de dados e também atuo no frontend quando necessário.
 
-Here are some ideas to get you started:
+🚀 Sempre buscando evoluir tecnicamente e criar soluções eficientes para problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="VueJS" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="React" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Laravel" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/brunoestevaodev">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoestevaodev&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 🔗 Onde me encontrar
+
+- GitHub: https://github.com/brunoestevaodev
