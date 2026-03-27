@@ -31,12 +31,5 @@ Tenho experiência com PHP moderno, APIs, bancos de dados e também atuo no fron
 
 - GitHub: https://github.com/brunoestevaodev
 
-<p align="center">
-  <img 
-    src="https://github.com/brunoestevaodev/brunoestevaodev/blob/output/github-contribution-grid-snake-dark.svg"
-    width="800"
-    alt="Snake animation"
-  />
-</p>
 
 
