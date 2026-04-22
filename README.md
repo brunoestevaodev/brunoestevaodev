@@ -6,7 +6,7 @@ Tenho experiência com PHP moderno, APIs, bancos de dados e também atuo no fron
 🚀 Sempre buscando evoluir tecnicamente e criar soluções eficientes para problemas reais.
 
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="PHP" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40"
